@@ -1,0 +1,2 @@
+# SkMap
+Map manager
